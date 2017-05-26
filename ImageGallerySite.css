@@ -1,0 +1,28 @@
+
+body {
+	padding-top: 70px;
+}
+.navbar-inverse {
+	background: #24292e;
+}
+
+.icon-bar {
+	background-color: #fff !important;
+}
+
+.jumbotron img {
+	width: 50px;
+	margin-top: -14px;
+}
+
+.jumbotron {
+	background-color: rgb(225, 233, 237);
+	font-family: 'Concert One', cursive;
+	color: #2c3e50;
+}
+.custom-font-color {
+	color: #fff !important;
+}
+
+
+
